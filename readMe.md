@@ -1,0 +1,6 @@
+- FCC上的一个小项目--维基百科阅读器
+- https://en.wikipedia.org/wiki/Special:Random
+- 困难点：
+    - 输入框的动画实现
+    - 是否直接用bootstrap组件，而不写输入框动画
+    - 维基百科API调用
