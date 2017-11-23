@@ -1,0 +1,40 @@
+body{
+    background: #092B40;
+}
+
+.g-content{
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left:40%;
+    width: 400px;
+}
+
+.random{
+    font-size: 20px;
+    font-weight: bold;
+     padding-bottom: 20px; 
+}
+
+a{
+    color:#FFFFFF;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+
+#search{
+    width: 150px;
+}
+
+.tips{
+    font-size: 20px;
+    font-weight: bold;
+     padding-top: 10px; 
+    color:#FFFFFF;
+}

@@ -1,0 +1,10 @@
+$(document).ready(function(){
+    $.ajax({
+        type:'get',
+        dataType:'jsonp',
+        url:'https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Albert%20Einstein&utf8=&format=json',
+        success:function(data){
+            console.log(JSON.stringify(data));
+        }
+    });
+});
