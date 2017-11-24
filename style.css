@@ -10,7 +10,7 @@ body{
     align-items: center;
     position: absolute;
     top: 40%;
-    left:40%;
+    left:35%;
     width: 400px;
 }
 
@@ -36,5 +36,9 @@ a{
     font-size: 20px;
     font-weight: bold;
      padding-top: 10px; 
+    color:#FFFFFF;
+}
+
+.u-wiki{
     color:#FFFFFF;
 }
