@@ -35,10 +35,22 @@ a{
 .tips{
     font-size: 20px;
     font-weight: bold;
-     padding-top: 10px; 
+    padding-top: 10px; 
     color:#FFFFFF;
 }
 
+.g-wiki{
+    position: absolute;
+    top: 30%;
+    width: 100%;
+}
+
 .u-wiki{
+    width: 800px;
+    margin: 5px auto;
     color:#FFFFFF;
+}
+
+.u-wiki:hover{
+    border-left: 3px  solid #FF8C00;
 }
